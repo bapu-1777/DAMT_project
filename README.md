@@ -42,7 +42,11 @@ If you have any feedback, please reach out to us at mxv8999@mavs.uta.edu
 
 ## Authors
 
+-[karthik]
 - [@mayankvekariya](https://www.linkedin.com/in/mayank-vekariya-468214180/)
+-[Deva]
+-[Rohith]
+-[Manasa]
 
 ## License
 
