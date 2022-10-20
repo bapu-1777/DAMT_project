@@ -42,8 +42,8 @@ If you have any feedback, please reach out to us at mxv8999@mavs.uta.edu
 
 ## Authors
 
--[karthik]
--[@mayankvekariya]
+-[Karthik]
+-[Mayank]
 -[Deva]
 -[Rohith]
 -[Manasa]
